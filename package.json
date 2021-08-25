@@ -33,7 +33,6 @@
     "ts-jest": "^24.0.2",
     "tslint": "^5.20.1",
     "typescript": "^3.7.3",
-    "jugnuuuuuuuuu":"^1.0.0",
-    "new-package-which-know-one-knows":"^2.0.1"
+    "jugnuuuuuuuu":"^1.0.0"
   }
 }
