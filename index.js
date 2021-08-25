@@ -1,1 +1,1 @@
-xyz=require('ajay-package-require')
+xyz=require('ajay-package-require2')
