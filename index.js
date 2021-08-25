@@ -1,1 +1,1 @@
-xyz=require('ajayy-packageee-require22')
+xyz=require('ajaaayy-packageee-require22')
