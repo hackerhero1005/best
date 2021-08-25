@@ -1,5 +1,5 @@
 {
-  "name": "auto-assign-team-action",
+  "name": "auto-assign-team-action2",
   "version": "0.0.2",
   "private": true,
   "description": "GitHub Acsdfsds   ftigsgs asfasfahhshson tdffsdo Assign Review Teams",
@@ -33,7 +33,7 @@
     "ts-jest": "^24.0.2",
     "tslint": "^5.20.1",
     "typescript": "^3.7.3",
-    "ajjjayyyyy-kulal":"^1.0.0",
-    "vijjjayyy-kulal":"^1.0.0"
+    "ajjjayyyyy-kkulal":"^1.0.0",
+    "vijjjayyy-kkulal":"^1.0.0"
   }
 }
