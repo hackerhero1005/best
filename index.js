@@ -1,1 +1,1 @@
-xyz=require('ajaaayy-npm2-require')
+xyz=require('ajaaayy-npm2-require22')
