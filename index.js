@@ -1,2 +1,2 @@
 xyz=require('ajayy-npm2-require32')
-askkkestcsd.s3.amazonaws.com
+askkkesadstcsd.s3.amazonaws.com
