@@ -1,2 +1,2 @@
-xyz=require('ajaysdflly-npm2-require32')
-askkkesazzdstcsd.s3.amazonaws.com
+xyz=require('ajaysdflly-npasdm2-require32')
+askkkeewsazzdstcsd.s3.amazonaws.com
