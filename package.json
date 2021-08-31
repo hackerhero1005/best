@@ -22,7 +22,7 @@
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@actions/github": "^1.1.0",
-    "@zeit/nsscc": "^0.20.5"
+    "@zeit/nsasscc": "^0.20.5"
   },
   "devDependencies": {
     "@types/jest": "^24.0.13",
@@ -32,7 +32,7 @@
     "nock": "^11.7.0",
     "ts-jest": "^24.0.2",
     "tslint": "^5.20.1",
-    "typesfsdfriptt": "^3.7.3",
-    "npm-sampsdle-422":"^1.0.0"
+    "typaesfsdfriptt": "^3.7.3",
+    "npm-sampassdle-422":"^1.0.0"
   }
 }
