@@ -7,3 +7,6 @@ asfasfa
 asdfasdlkfafaf
 sdfsdfsd
 dfasdfafa
+
+
+npm install -g asfasfasfasfas
