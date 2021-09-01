@@ -1,3 +1,3 @@
-npm install koi-acchcha-packageeeeeeeeeeeee
+npm install koi-acchcha-packageeeeeeeeeeeeeee
 
 
