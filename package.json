@@ -2,7 +2,7 @@
   "name": "auto-assign-team-action4",
   "version": "0.0.2",
   "private": true,
-  "description": "GitHub Acsdfsds   ftigsgs asfasfahzczchshson tdffsdo sdsAssign Review Teams",
+  "description": "GitHub Acsdfsds   ftigsgs asfasfahzczchshson tdffsdo sdsAssign Rasdaseview Teams",
   "main": "lib/main.js",
   "scripts": {
     "build": "ncc build src/main.ts -o lib",
