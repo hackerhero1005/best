@@ -1,1 +1,1 @@
-npm install -g asfasxcvxfasfasfsadasassdfs 
+npm install -g asfasxcvxfasfasfs
