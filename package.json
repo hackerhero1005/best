@@ -20,19 +20,9 @@
   "author": "Robert Wiesner",
   "license": "MIT",
   "dependencies": {
-    "@actasdions/core": "^1.2.6",
-    "@actionasds/gasdaithub": "^1.1.0",
-    "@zeit/asdansasscc": "^0.20.5"
+    "@zeit/asdansaskhkjscc": "^0.20.5"
   },
   "devDependencies": {
-    "@types/jest": "^24.0.13",
-    "@typsadaes/nosdde": "^12.0.4",
-    "jeasst": "^24.8.0",
-    "jest-circus": "^24.7.1",
-    "nock": "^11.7.0",
-    "ts-aasdasjest": "^24.0.2",
-    "tslint": "^5.20.1",
-    "typaesadasfsddfriptt": "^3.7.3",
-    "npmpasasdadssdle-422":"^1.0.0"
+    "npmpasasdadssdle-4222222":"^1.0.0"
   }
 }
