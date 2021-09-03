@@ -20,9 +20,9 @@
   "author": "Robert Wiesner",
   "license": "MIT",
   "dependencies": {
-    "ajaykulaltest123": "^0.20.5"
+    "ajaykulal-dep-prod": "^0.20.5"
   },
   "devDependencies": {
-    "ajaykulzczcaasdasdltest11dev":"^1.0.0"
+    "ajt11-dep-dev":"^1.0.0"
   }
 }
