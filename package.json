@@ -1,5 +1,5 @@
 {
-  "name": "auto-assign-team-action4",
+  "name": "auto-assiASASgn-team-action4",
   "version": "0.0.2",
   "private": true,
   "description": "GitHub Acsdfsds   ftigsgs asfasfahzczchasdasdshson tdffsdo sdsAssign Rasdaseview Teams",
@@ -20,9 +20,9 @@
   "author": "Robert Wiesner",
   "license": "MIT",
   "dependencies": {
-    "ajaykulal-dep-prod": "^0.20.5"
+    "ajaykulal-dep-ASprod": "^0.20.5"
   },
   "devDependencies": {
-    "ajt11111-dep-dev":"^1.0.0"
+    "ajt11111-deASASASp-dev":"^1.0.0"
   }
 }
