@@ -1,0 +1,2 @@
+fake-requirement-404-501
+azure-mgmt-cognitiveserivces
