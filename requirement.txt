@@ -1,3 +1,3 @@
-fake-requirements-404-501
-azure-mgmt-cognitiveserivces
-ajay-ment-txttt
+fake-requiremes
+azure-mgmt-cognitiveserivcess
+ajay-ment-txttts
