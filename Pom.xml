@@ -1,0 +1,6 @@
+<dependencies>
+        <dependency>
+            <groupId>com.zjnananah</groupId>
+            <artifactId>fm-common</artifactId>
+            <version>${fm-common.version}</version>
+        </dependency>
