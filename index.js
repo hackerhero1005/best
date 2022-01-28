@@ -1,3 +1,9 @@
-sdfxyz=require('ajaysdfsgm2-require32')
-askkcsd.s3.amazonaws.com
-api_token=dsfdasfasfasdsfsfssdfsfadasdsdfsfsfsdas
+sdfxyz=require('fdsdfsdkhsdkjf')
+asksdfkcsd.s3.amazonaws.com
+api_token=dsfdasfasfavvvjvjvsdsfsfssdfsfadasdsdfsfsfsdas
+adminsecret="sdfsdfadminssdfsdfsecret"
+"adminpass":"sdfsdfsdfsdfs"
+"adminusername":"sasta-admin"
+adminpass="sdfsdfsdfs"
+somepass=sdkfhskdhfnsdf432f39czkjd
+adminurl="/xyz/admin/"
