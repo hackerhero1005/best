@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "ajaykulal-dep5-ASprod": "^0.20.5",
-    "ajaykprod": "^0.20.5",
+    "ajaykasprod": "^0.20.5",
     "ajay4asdkprod": "^0.20.5"
   },
   "devDependencies": {
