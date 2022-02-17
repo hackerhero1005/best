@@ -1,9 +1,0 @@
-sdfxyz=require('fdsdfsdkhsdkjf')
-asksdfkcsd.s3.amazonaws.com
-api_token=dsfdasfasfavvvjvjsdfsgdfsdfvsdsfsfssdfsfadasdsdfsfsfsdas
-adminsecret="sdfsdfadfgsdgsdgsminssdfsdfsecret"
-"adminpass":"sdfsdfsdsdfsdfsdfsfsfsdfs"
-"adminusername":"sasta-admin"
-adminpass="sdfsdfsfsdfsfsfsdsdfsdfs"
-somepass=sdkfhskdhfdsfsdfnsdfsdgsdgsdgsdgsdg432f39czkjd
-adminurl="/xyz/admin/"
