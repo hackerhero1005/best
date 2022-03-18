@@ -1,1 +1,1 @@
-gem 'hsnsnsnmsm'
+gem 'ajay-gem12'
