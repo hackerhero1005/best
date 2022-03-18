@@ -1,1 +1,1 @@
-gem 'ajay-gem12'
+gem 'ajay-gsdem12'
