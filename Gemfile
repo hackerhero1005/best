@@ -1,3 +1,3 @@
-gem 'rrrsddem12'
-gem 'sdsmay-gsddem12'
-gem 'sdcazxzndffem12'
+gem 'rrrsddem62'
+gem 'sdsmay-gdem52'
+gem 'sdcazxzndffem72'
