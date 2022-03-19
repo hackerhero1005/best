@@ -5,3 +5,5 @@ npm i sdfsdfsdklhoihifasd
 
 
 yarn add sfglsiodmlaNC
+
+pip install ajaydocpy
