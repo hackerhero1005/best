@@ -30,7 +30,7 @@ repository = "https://github.com/awslabs/smithy-rs"
 [dev-dependencies]
 proptest = "1"
 regex = "1"
-cargo-regexdev5 = "1"
+cargoooo-regexdev5 = "1"
 
 [package.metadata.docs.rs]
 all-features = true
