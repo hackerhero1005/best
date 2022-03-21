@@ -1,9 +1,13 @@
-npm install koi-acchcha-pvxvackagdczxcxdvxcvsfsdfeeeeeeee
+npm install doc-pack-npm-shell1
 
 
-npm i sdfsdfsdklhoihifasd
+npm i sdoc-pack-npm-shell-i
 
 
-yarn add sfglsiodmlaNC
+yarn add doc-pack-yan-shell1
 
-pip install ajaydocpy
+pip install doc-pack-pip-shell1
+
+cargo install doc-pack-cargo-shell1
+
+gem install doc-pack-gem-shell1
