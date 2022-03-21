@@ -1,4 +1,2 @@
-fake-requdirement-404-501
-azure-mgdmt-cogniverivces
-ajtetserssss-txt
-newrqpeq
+py-req-mentss1
+py-req-mentss2
