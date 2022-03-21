@@ -1,5 +1,2 @@
-fake-requiremes
-azure-mgmt-cognitiveserivcess
-ajay-ment-txttts
-reqmenterrrr
-ajay-rezxq-pypi
+py-req-ment1
+py-req-ment2
