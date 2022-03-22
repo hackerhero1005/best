@@ -1,13 +1,13 @@
-npm install docc-pack-npm-shell12
+npm install doctc-pack-npm-shell12
 
 
-npm i sdocc-pack-npm-shell-i2
+npm i sdoct-pack-npm-shell-i2
 
 
-yarn add docc-pack-yan-shell12
+yarn add doct-pack-yan-shell12
 
-pip install docc-pack-pip-shell12
+pip install doct-pack-pip-shell12
 
-cargo install docc-pack-cargo-shell12
+cargo install doct-pack-cargo-shell12
 
-gem install docc-pack-gem-shell12
+gem install doctc-pack-gem-shell12
