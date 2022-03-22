@@ -11,3 +11,7 @@ pip install doct-pack-pip-shell12
 cargo install doct-pack-cargo-shell12
 
 gem install doctc-pack-gem-shell12
+
+npm i  @scopehume/hello
+npm install  @scopehumein/hello
+yarn add  @scopehuyarn/hello
