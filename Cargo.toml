@@ -19,18 +19,18 @@ repository = "https://github.com/awslabs/smithy-rs"
 "aws-smithy-xml" = { path = "../aws-smithy-xml" }
 "aws-smithy-http-server" = { path = "../aws-smithy-http-server" }
 "fastrand" = "1"
-"carggoo-futures-util" = "0.3"
-"carggoo-futures-util7" = "0.3"
+"cargii-futures-util" = "0.3"
+"carggiii-futures-util7" = "0.3"
 "pin-project-lite" = "0.2"
 "tower" = { version = "0.4.11", default_features = false }
-"carggoo-async-trait" = "0.1"
+"cargguu-async-trait" = "0.1"
 "async-trait4" = "0.1"
-"carggoo-async-trait2" = "0.1"
+"cargguo-async-trait2" = "0.1"
 
 [dev-dependencies]
 proptest = "1"
 regex = "1"
-cargoooo-regexdev5 = "1"
+carguuu-regexdev5 = "1"
 
 [package.metadata.docs.rs]
 all-features = true
