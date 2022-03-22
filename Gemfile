@@ -1,2 +1,2 @@
-gem 'gem5kem568'
-gem "gem6kem668"
+gem 'gem5zem568'
+gem "gem6zem668"
