@@ -1,2 +1,2 @@
-py-req-mentss11
-py-req-mentss22
+py-req-mentss100
+py-reqterk-mentss22
