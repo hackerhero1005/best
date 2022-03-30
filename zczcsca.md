@@ -4,3 +4,4 @@ secret_token="asdfasxvxvxvasdasdxkcscsadnasdfszdfsdfsfdgsdfsddfgxc"
 
 cargo install metaversee
 vfsdf'cargo install metaa-versee'extra-cargoman
+npm install idesqot4rt
