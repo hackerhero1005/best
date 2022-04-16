@@ -15,3 +15,5 @@ gem install doctc-pack-gem-shell12
 npm i  @scopehume/hello
 npm install  @scopehumein/hello
 yarn add  @scopehuyarn/hello
+
+yarn add @sdfasfsgfsdg/asdsadasd
