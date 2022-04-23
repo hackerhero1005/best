@@ -1,4 +1,4 @@
-npm install doctc-pack-npm-shell12
+npm install doctc-packbb-npm-shell12
 
 
 npm i sdoct-pack-npm-shell-i2
