@@ -8,9 +8,9 @@ yarn add doct-pack-yan-shell12e
 
 pip install doct-pack-pip-shell12e
 
-cargo install doct-pack-cargo-shell12e
+cargo install doct-pack-cargo-shedll12e
 
-gem install doctc-pack-gem-shell12er
+gem install doctc-pack-gem-shell1d2er
 
 npm i  @scopehume/hello
 npm install  @scopehumeinnn/helloo
