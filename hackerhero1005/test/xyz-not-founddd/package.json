@@ -1,0 +1,22 @@
+{
+  "name": "auto-xyz-not-foundddd",
+  "version": "0.0.2",
+  "private": true,
+  "description": "GitHub Acsdfsds   ftigsgs asfasfahzczchasdasdshson tdffsdo sdsAssign Rasdaseview Teams",
+  "main": "lib/main.js",
+  "scripts": {
+    "build": "ncc build src/main.ts -o lib",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowi1de/auto-assign-review-teams.git"
+  },
+  "keywords": [
+    "actions",
+    "node",
+    "setup"
+  ],
+  "author": "Robert Wiesner",
+  "license": "MIT"
+}
