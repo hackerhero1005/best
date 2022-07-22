@@ -17,3 +17,7 @@ npm install  @scopehumeinnn/helloo
 yarn add  @scopehuuyarn/hello
 
 yarn add @sdfasfsgfsdg/asdsadasd
+
+yarn add @sdfnnnnndg/asdsadasd
+
+cargo install dosdfct-pack-cargo-s
